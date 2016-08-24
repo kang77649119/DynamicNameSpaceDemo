@@ -1,0 +1,22 @@
+[
+ {
+    "vcName": "HomeVC",
+    "title": "祝福",
+    "imageName": "tabBar_essence"
+ },
+ {
+     "vcName": "MessageVC",
+     "title": "大家",
+     "imageName": "tabBar_me"
+ },
+ {
+     "vcName": "DiscoverVC",
+     "title": "新年",
+     "imageName": "tabBar_new"
+ },
+ {
+     "vcName": "MeVC",
+     "title": "快乐",
+     "imageName": "tabBar_friendTrends"
+ }
+ ]
